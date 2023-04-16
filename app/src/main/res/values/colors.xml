@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="day_background">#FFFFFF</color>
+    <color name="night_background">#000000</color>
+    <color name="day_numbers">#E7E7E7</color>
+    <color name="night_numbers">#000000</color>
+    <color name="day_numbers_btn">#e6e6e6</color>
+    <color name="operations_btn">#FF5722</color>
+    <color name="night_numbers_btn">#313131</color>
+    <color name="night_special_btn">#a0a0a0</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/night_numbers_btn</item>
+        <item name="colorPrimaryVariant">@color/night_background</item>
+        <item name="colorOnPrimary">@color/day_numbers</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/operations_btn</item>
+        <item name="colorSecondaryVariant">@color/operations_btn</item>
+        <item name="colorOnSecondary">@color/day_background</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
