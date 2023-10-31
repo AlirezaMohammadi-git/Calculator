@@ -1,9 +1,9 @@
-package com.example.mycalculator.DI.Components
+package arch.alireza.mycalculator.DI.Components
 
 import android.app.Application
-import com.example.mycalculator.DI.Modules.ActivityBuilderModule
-import com.example.mycalculator.DI.Modules.appModule
-import com.example.mycalculator.DI.MyApp
+import arch.alireza.mycalculator.DI.Modules.ActivityBuilderModule
+import arch.alireza.mycalculator.DI.Modules.appModule
+import arch.alireza.mycalculator.DI.MyApp
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.AndroidInjector

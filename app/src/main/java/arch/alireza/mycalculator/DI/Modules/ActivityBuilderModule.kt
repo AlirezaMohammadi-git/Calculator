@@ -1,6 +1,6 @@
-package com.example.mycalculator.DI.Modules
+package arch.alireza.mycalculator.DI.Modules
 
-import com.example.mycalculator.MainScreen.MainActivity
+import arch.alireza.mycalculator.MainScreen.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

@@ -1,8 +1,6 @@
-package com.example.mycalculator.DI
+package arch.alireza.mycalculator.DI
 
-import android.app.Application
-import android.util.Log
-import com.example.mycalculator.DI.Components.DaggerMainComponent
+import arch.alireza.mycalculator.DI.Components.DaggerMainComponent
 import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication
 

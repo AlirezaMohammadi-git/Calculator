@@ -1,8 +1,8 @@
-package com.example.mycalculator.DI.Modules
+package arch.alireza.mycalculator.DI.Modules
 
 import android.app.Application
 import android.content.Context
-import com.example.mycalculator.repository.CalculatorListener
+import arch.alireza.mycalculator.repository.CalculatorListener
 import com.github.jairrab.calc.Calculator
 import com.github.jairrab.calc.CalculatorType
 import dagger.Module

@@ -1,9 +1,8 @@
-package com.example.mycalculator.MainScreen
+package arch.alireza.mycalculator.MainScreen
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
-import com.example.mycalculator.repository.CalculatorListener
-import javax.inject.Inject
+import arch.alireza.mycalculator.repository.CalculatorListener
 
 class MainScreenViewModel : ViewModel() {
     fun getUpdateLiveData(): LiveData<Double> {

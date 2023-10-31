@@ -1,4 +1,4 @@
-package com.example.mycalculator
+package arch.alireza.mycalculator
 
 import org.junit.Test
 

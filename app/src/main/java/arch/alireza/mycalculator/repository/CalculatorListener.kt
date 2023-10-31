@@ -1,4 +1,4 @@
-package com.example.mycalculator.repository
+package arch.alireza.mycalculator.repository
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.mycalculator'
+    namespace 'arch.alireza.mycalculator'
     compileSdk 33
 
     buildFeatures {
@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.mycalculator"
+        applicationId "arch.alireza.mycalculator"
         minSdk 21
         targetSdk 33
         versionCode 1

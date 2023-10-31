@@ -1,8 +1,8 @@
-package com.example.mycalculator.Utils
+package arch.alireza.mycalculator.Utils
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.mycalculator.MainScreen.MainScreenViewModel
+import arch.alireza.mycalculator.MainScreen.MainScreenViewModel
 
 
 /*

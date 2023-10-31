@@ -1,12 +1,12 @@
-package com.example.mycalculator.MainScreen
+package arch.alireza.mycalculator.MainScreen
 
 import android.annotation.SuppressLint
 import android.content.pm.ActivityInfo
 import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.ViewModelProvider
-import com.example.mycalculator.Utils.MainScreenViewModelFactory
-import com.example.mycalculator.databinding.ActivityMainBinding
+import arch.alireza.mycalculator.Utils.MainScreenViewModelFactory
+import arch.alireza.mycalculator.databinding.ActivityMainBinding
 import com.github.jairrab.calc.Calculator
 import dagger.android.support.DaggerAppCompatActivity
 import javax.inject.Inject
